@@ -1,7 +1,6 @@
 # Trading Strategy: Quantitative Analysis on Moving Averages and Price Lows/Highs
 
-This repository contains the implementation of a quantitative trading strategy that utilizes a combination of moving averages and price lows/highs to determine market entry and exit points. Below, we provide a detailed explanation of the strategy and how it is implemented.
-
+This repository contains the implementation of a quantitative trading strategy that utilizes a combination of moving averages and price lows/highs to determine market entry and exit points.
 ## Strategy Overview
 The trading strategy is designed around two main principles:
 
